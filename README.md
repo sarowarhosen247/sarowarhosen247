@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEJUsfigJG9iA/profile-displaybackgroundimage-shrink_200_800/B56Z9coGxuGoAQ-/0/1783965445538?e=1785369600&v=beta&t=K_CjlIklRuhwXj8d3HnSVtifsQqIESZlz-DQxo2HuGI">
+
 <h1 align="center">Hi 👋, I'm Sarowar Hosen</h1>
 <h3 align="center">An Enthusiastic web designer, developer and WordPress expert with a special focus on creating user-friendly, responsive websites.</h3>
 
