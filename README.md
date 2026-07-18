@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEJUsfigJG9iA/profile-displaybackgroundimage-shrink_200_800/B56Z9coGxuGoAQ-/0/1783965445538?e=1785369600&v=beta&t=K_CjlIklRuhwXj8d3HnSVtifsQqIESZlz-DQxo2HuGI">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFEeH1lezUEpg/profile-displaybackgroundimage-shrink_350_1400/B56Z9nAF_cIMAU-/0/1784139505872?e=1785974400&v=beta&t=Pnj4R9LLPsPXnBG1i_9x4KNtcx7EkLu2PtNS5Y1dGuU">
 
 <h1 align="center">Hi 👋, I'm Sarowar Hosen</h1>
 <h3 align="center">An Enthusiastic web designer, developer and WordPress expert with a special focus on creating user-friendly, responsive websites.</h3>
